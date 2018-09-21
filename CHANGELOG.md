@@ -4,4 +4,4 @@
 
 * Initial package setup. Fixes STRIPES-522.
 * exportToCsv function. Fixes UIU-416.
-
+* Add `options` param to `exportToCsv`. Fixes [UIREQ-102](https://issues.folio.org/browse/UIREQ-102). Available from v1.0.1
