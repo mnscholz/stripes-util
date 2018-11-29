@@ -1,5 +1,9 @@
 # Change history for stripes-util
 
+## [1.3.0](https://github.com/folio-org/stripes-util/tree/v1.3.0) (2018-11-29)
+
+* Allow CSV export to Use UI labels as column headers
+
 ## [1.2.0](https://github.com/folio-org/stripes-util/tree/v1.2.0) (2018-10-05)
 
 * Export `exportToCsv`
