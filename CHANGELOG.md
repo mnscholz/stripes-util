@@ -1,5 +1,8 @@
 # Change history for stripes-util
 
+## 1.3.1 (IN-PROGRESS)
+* Turned off sideEffects to enable tree-shaking for production builds. Refs STRIPES-564 and STRIPES-581.
+
 ## [1.3.0](https://github.com/folio-org/stripes-util/tree/v1.3.0) (2018-11-29)
 
 * Allow CSV export to Use UI labels as column headers
