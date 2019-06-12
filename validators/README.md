@@ -2,7 +2,7 @@ This directory contains validator functions to be used with [redux-form](https:/
 
 Use as follows:
 
-	import { required, etc } from '@folio/stripes-util/validators';
+	import { required, etc } from '@folio/stripes-util';
 	// ...
 	<Field name="title" validate={required} />
 
