@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-util",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "A library of utility functions to support Stripes modules.",
   "license": "Apache-2.0",
   "repository": "folio-org/stripes-util",
@@ -23,6 +23,10 @@
   "dependencies": {
     "json2csv": "^4.2.1",
     "lodash": "^4.17.4",
+    "react-intl": "^2.4.0",
     "query-string": "^5.0.0"
+  },
+  "peerDependencies": {
+    "react": "*"
   }
 }

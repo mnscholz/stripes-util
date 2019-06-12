@@ -1,5 +1,9 @@
 # Change history for stripes-util
 
+## 1.5.0 (IN PROGRESS)
+
+* Begin a [library of validator functions](validators), currently only providing `required`.
+
 ## [1.4.0](https://github.com/folio-org/stripes-util/tree/v1.4.0) (2019-05-10)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v1.3.0...v1.4.0)
 
