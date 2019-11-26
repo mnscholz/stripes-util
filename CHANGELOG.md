@@ -1,5 +1,9 @@
 # Change history for stripes-util
 
+## 1.6.0 (IN PROGRESS)
+
+* Export `effectiveCallNumber` to format a call number from an item record. Refs UIREQ-366.
+
 ## [1.5.0](https://github.com/folio-org/stripes-util/tree/v1.4.0) (2019-07-22)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v1.4.0...v1.5.0)
 
