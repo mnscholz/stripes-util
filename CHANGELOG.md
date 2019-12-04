@@ -1,5 +1,10 @@
 # Change history for stripes-util
 
+## [1.6.1](https://github.com/folio-org/stripes-util/tree/v1.6.1) (2019-12-04)
+[Full Changelog](https://github.com/folio-org/stripes-util/compare/v1.6.0...v1.6.1)
+
+* `effectiveCallNumber` also accepts a holdings record to help assemble the call number. Refs STUTL-4.
+
 ## [1.6.0](https://github.com/folio-org/stripes-util/tree/v1.6.0) (2019-12-04)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v1.5.0...v1.6.0)
 
