@@ -1,5 +1,10 @@
 # Change history for stripes-util
 
+## [1.6.2](https://github.com/folio-org/stripes-util/tree/v1.6.2) (2019-12-18)
+[Full Changelog](https://github.com/folio-org/stripes-util/compare/v1.6.1...v1.6.2)
+
+* Nah, we want `effectiveCallNumber` to derive all values from the item record. Refs STUTL-5.
+
 ## [1.6.1](https://github.com/folio-org/stripes-util/tree/v1.6.1) (2019-12-04)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v1.6.0...v1.6.1)
 
