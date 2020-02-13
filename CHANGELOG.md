@@ -1,5 +1,9 @@
 # Change history for stripes-util
 
+## [1.6.3] IN PROGRESS
+
+* Extend function `effectiveCallNumber` for being able to use it with loans. Refs UIU-1391.
+
 ## [1.6.2](https://github.com/folio-org/stripes-util/tree/v1.6.2) (2019-12-18)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v1.6.1...v1.6.2)
 
