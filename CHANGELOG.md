@@ -1,13 +1,14 @@
 # Change history for stripes-util
 
 ## 4.1.0 IN PROGRESS
+* Tests! Refs STUTL-6.
+* Add the `parseJwt` function from ui-developer as a new export. Refs STUTL-13.
 
 ## [4.0.0](https://github.com/folio-org/stripes-util/tree/v4.0.0) (2020-10-06)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v3.0.0...v4.0.0)
 
 * Increment `react-intl` to `^v5`. Refs STUTL-9.
 * Add the `eachPromise` function from ui-users as a new export.
-* Tests! Refs STUTL-6.
 
 ## [3.0.0](https://github.com/folio-org/stripes-util/tree/v3.0.0) (2020-05-20)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v2.0.0...v3.0.0)
