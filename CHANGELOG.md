@@ -1,5 +1,9 @@
 # Change history for stripes-util
 
+## 5.1.0 (IN PROGRESS)
+
+Add `getPermissionLabelString` and `withTranslationErrorsDisabled`. Fixes STUTL-20.
+
 ## [5.0.0](https://github.com/folio-org/stripes-util/tree/v5.0.0) (2021-09-27)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v4.2.0...v5.0.0)
 
