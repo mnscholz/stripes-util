@@ -4,3 +4,4 @@ export { default as exportCsv } from './lib/exportCsv';
 export { default as getFullName } from './lib/getFullName';
 export { default as parseJwt } from './lib/parseJwt';
 export * from './validators';
+export * from './lib/permission';
