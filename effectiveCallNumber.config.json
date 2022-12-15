@@ -1,0 +1,10 @@
+[
+    { "name": "prefix", "prefix": "<", "suffix": "//", "fallback": "<??/" },
+    { "name": "callNumber", "prefix": "", "suffix": "", "fallback": "??" },
+    { "name": "suffix", "prefix": "", "suffix": "", "fallback": "" },
+    { "name": "volume", "prefix": "-\u2068", "suffix": "\u2069", "fallback": "" },
+    { "name": "enumeration", "prefix": "@\u2068", "suffix": "\u2069", "fallback": "" },
+    { "name": "chronology", "prefix": "[\u2068", "suffix": "\u2069", "fallback": "" },
+    { "name": "copyNumber", "prefix": "+\u2068", "suffix": "\u2069>", "fallback": ">" }
+]
+ 
